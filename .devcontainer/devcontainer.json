@@ -1,0 +1,8 @@
+{
+    "name": "sh-guard Dev Container",
+    "build": {
+        "dockerfile": "dev.Dockerfile"
+    },
+    "forwardPorts": [],
+    "postCreateCommand": "echo 'Dev container ready!'"
+}
